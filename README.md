@@ -107,7 +107,7 @@ This project demonstrates a modern full-stack web application featuring an intel
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/anuj-pal27/e-commerce-chatbot.git
 cd django-chatbot
 ```
 

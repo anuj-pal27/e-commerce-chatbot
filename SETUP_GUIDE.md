@@ -7,7 +7,7 @@
 
 ## Step 1: Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/anuj-pal27/e-commerce-chatbot.git
 cd django-chatbot
 ```
 
